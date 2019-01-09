@@ -3,3 +3,10 @@
     list-style: none;
     text-decoration: none;
 }
+
+#header{
+    display: flex;
+    background-color: blueviolet;
+    color: antiquewhite;
+    align-content: center;
+}
